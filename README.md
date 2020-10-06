@@ -1,2 +1,1 @@
-# atlassian_datathon_2020
-files for atlassian datathon 2020
+# files for predicting the Covid-19 number of cases time series by XGboost and Random Forest
